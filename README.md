@@ -1,4 +1,8 @@
+# Create a simple static site generator blog with Eleventy, Structured content using Sanity.io, on Netlify CDN
+
 # Blog with Eleventy
+
+https://github.com/Ted2xmen/sanity-eleventy-blog
 
 _Simple blog starter with [11ty](https://11ty.io)._
 
